@@ -1,2 +1,2 @@
-# ASF-Hearts-Of-Iron-Mod
-Air supply fix: A simple mod that fixes the air supply problem
+#Air supply fix
+A simple mod that fixes the air supply problem
